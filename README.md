@@ -5,4 +5,4 @@ A simple page that user can select different activities and with different optio
 
 ### Page screen shot:
 
-![home page](https://github.com/pouriavj/JSON-Taco-Town/blob/main/Taco-Town.jpg?raw=true)
+![home page](https://github.com/pouriavj/API-Axios/blob/main/boredActivity.jpg?raw=true)
