@@ -1,5 +1,5 @@
 # API-Axios
-A simple page that user can select different activities and with different options for the number of participants , and get back a Bored-activity from a public API.
+A simple page that user can select different activities and with different options for the number of participants , and get back a Bored-activity from a public API using server side request with Axios.
 #### <sub>Back-end + Front-end</sub>
 ---
 
